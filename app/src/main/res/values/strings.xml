@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name"> Recherche </string>
+    <string-array name="array_country">
+
+    <item> Nescafe </item>
+    <item> boisson gazeuse </item>
+    <item> Jus </item>
+    <item> shampoing </item>
+    <item> biscuit </item>
+
+    <item> yaourt </item>
+    <item> les pates  </item>
+    <item> Fruit </item>
+    <item> legume  </item>
+    <item> bonbon </item>
+
+   <item> éléctroménager </item>
+   <item> les pates  </item>
+   <item> lait </item>
+   <item> vetements  </item>
+   <item> books </item>
+
+
+    </string-array>
 </resources>
